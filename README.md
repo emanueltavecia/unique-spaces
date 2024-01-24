@@ -10,6 +10,8 @@ Project developed on Rocketseat's Explorer course
 
 - 🚀 [**Deploy**](https://emanueltavecia.github.io/unique-spaces)
 
+<a href="https://emanueltavecia.github.io/unique-spaces" target="_blank">Deploy</a>
+
 ## 📋 Project information
 
 - Rocketseat Explorer
