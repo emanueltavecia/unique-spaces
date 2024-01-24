@@ -9,8 +9,7 @@ Project developed on Rocketseat's Explorer course
 ## 🔗 Project Links
 
 - 🚀 [**Deploy**](https://emanueltavecia.github.io/unique-spaces)
-
-<a href="https://emanueltavecia.github.io/unique-spaces" target="_blank">Deploy</a>
+- 🎨 [**Figma**](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01/duplicate)
 
 ## 📋 Project information
 
